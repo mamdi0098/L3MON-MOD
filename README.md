@@ -83,5 +83,5 @@ All Credits goes to ORIGINAL LEMON author, though the project is archived and di
 L3MON-MOD is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Reborn with ❤️ By <a href="//techncyber.com">Techncyber</a></p>
+<p align="center">formation @KINGOF_Hack0098👑<a href="//techncyber.com">Techncyber</a></p>
 <p align="center" style="font-size: 8px">v.2.0.0</p>
